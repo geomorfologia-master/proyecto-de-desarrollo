@@ -1,9 +1,9 @@
 Proyecto de desarrollo. Tu tema, tu
 investigación<small><br>Geomorfología (GEO-114)<br>Universidad Autónoma
-de Santo Domingo (UASD)<br>Semestre 2024-02</small>
+de Santo Domingo (UASD)</small>
 ================
 El Tali
-2024-10-22
+2025-10-06
 
 <!-- README.md se genera a partir de README.Rmd. Por favor, edita ese archivo. -->
 
@@ -12,7 +12,8 @@ Versión HTML (quizá más legible),
 
 # Fecha/hora de entrega
 
-**Último día de clases, semestre 2024-02, 11:59 pm.**
+**[VER PORTAL DE LA
+ASIGNATURA](https://github.com/geomorfologia-202502)**
 
 # Objetivos
 
